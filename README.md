@@ -39,3 +39,4 @@ por medio de un correo electrónico junto con la siguiente información:
 ## Procedimientos a seguir
 
 Recuerda que estas en un proceso de selección, esto implica que no eres la única persona realizando pruebas, por tal motivo, una vez se terminen de realizar las pruebas a todos los postulantes, cómo también se realicen las debidas revisiones, se les notificará en caso de seguir o no, en nuestro proceso de selección.
+# prueba_tecnica_softpymes
